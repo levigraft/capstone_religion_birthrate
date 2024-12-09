@@ -1,10 +1,10 @@
 Region,Year,Population,Religion
-Africa,1910,8400,Agnostic
-Asia,1910,50400,Agnostic
-Europe,1910,1643000,Agnostic
-Latin America,1910,446000,Agnostic
-Northern America,1910,1169000,Agnostic
-Oceania,1910,51100,Agnostic
+Africa,1970,588000,Agnostic
+Asia,1970,437146000,Agnostic
+Europe,1970,87540000,Agnostic
+Latin America,1970,6041000,Agnostic
+Northern America,1970,11349000,Agnostic
+Oceania,1970,658700,Agnostic
 Africa,2010,6497000,Agnostic
 Asia,2010,504762000,Agnostic
 Europe,2010,93325000,Agnostic
@@ -17,18 +17,12 @@ Europe,2020,101371000,Agnostic
 Latin America,2020,22594000,Agnostic
 Northern America,2020,64155000,Agnostic
 Oceania,2020,8281000,Agnostic
-Africa,2050,16509000,Agnostic
-Asia,2050,430397000,Agnostic
-Europe,2050,112774000,Agnostic
-Latin America,2050,43154000,Agnostic
-Northern America,2050,91007000,Agnostic
-Oceania,2050,13303000,Agnostic
-Africa,1910,1100,Atheist
-Asia,1910,7600,Atheist
-Europe,1910,219000,Atheist
-Latin America,1910,12500,Atheist
-Northern America,1910,2400,Atheist
-Oceania,1910,1000,Atheist
+Africa,1970,103000,Atheist
+Asia,1970,109458000,Atheist
+Europe,1970,53816000,Atheist
+Latin America,1970,1265100,Atheist
+Northern America,1970,300000,Atheist
+Oceania,1970,215210,Atheist
 Africa,2010,571000,Atheist
 Asia,2010,114851000,Atheist
 Europe,2010,15697000,Atheist
@@ -41,18 +35,12 @@ Europe,2020,15106000,Atheist
 Latin America,2020,3202000,Atheist
 Northern America,2020,10587000,Atheist
 Oceania,2020,1732000,Atheist
-Africa,2050,1244000,Atheist
-Asia,2050,94972000,Atheist
-Europe,2050,17489000,Atheist
-Latin America,2050,4459000,Atheist
-Northern America,2050,21351000,Atheist
-Oceania,2050,3365000,Atheist
-Africa,1910,3600,Buddhist
-Asia,1910,137570000,Buddhist
-Europe,1910,428000,Buddhist
-Latin America,1910,7100,Buddhist
-Northern America,1910,47200,Buddhist
-Oceania,1910,7600,Buddhist
+Africa,1970,11700,Buddhist
+Asia,1970,232192500,Buddhist
+Europe,1970,552200,Buddhist
+Latin America,1970,389700,Buddhist
+Northern America,1970,216000,Buddhist
+Oceania,1970,16650,Buddhist
 Africa,2010,254000,Buddhist
 Asia,2010,487038000,Buddhist
 Europe,2010,1789000,Buddhist
@@ -65,18 +53,12 @@ Europe,2020,1987000,Buddhist
 Latin America,2020,835000,Buddhist
 Northern America,2020,4953000,Buddhist
 Oceania,2020,980000,Buddhist
-Africa,2050,611000,Buddhist
-Asia,2050,566435000,Buddhist
-Europe,2050,2606000,Buddhist
-Latin America,2050,1608000,Buddhist
-Northern America,2050,7951000,Buddhist
-Oceania,2050,1497000,Buddhist
-Africa,1910,11636000,Christian
-Asia,1910,25086000,Christian
-Europe,1910,403546000,Christian
-Latin America,1910,74462000,Christian
-Northern America,1910,91429000,Christian
-Oceania,1910,5651000,Christian
+Africa,1970,137867000,Christian
+Asia,1970,97389000,Christian
+Europe,1970,490507000,Christian
+Latin America,1970,269961000,Christian
+Northern America,1970,202363000,Christian
+Oceania,1970,17636000,Christian
 Africa,2010,494053000,Christian
 Asia,2010,342012000,Christian
 Europe,2010,580116000,Christian
@@ -89,18 +71,12 @@ Europe,2020,572603000,Christian
 Latin America,2020,653962000,Christian
 Northern America,2020,368870000,Christian
 Oceania,2020,42678000,Christian
-Africa,2050,1280641000,Christian
-Asia,2050,559973000,Christian
-Europe,2050,496682000,Christian
-Latin America,2050,685870000,Christian
-Northern America,2050,276078000,Christian
-Oceania,2050,34776000,Christian
-Africa,1910,124541000,General Population
-Asia,1910,1026693000,General Population
-Europe,1910,427044000,General Population
-Latin America,1910,78254000,General Population
-Northern America,1910,94689000,General Population
-Oceania,1910,7192000,General Population
+Africa,1970,365450000,General Population
+Asia,1970,1364210000,General Population
+Europe,1970,656521000,General Population
+Latin America,1970,508391000,General Population
+Northern America,1970,221866000,General Population
+Oceania,1970,19481000,General Population
 Africa,2010,1022234000,General Population
 Asia,2010,4164252000,General Population
 Europe,2010,738199000,General Population
@@ -113,18 +89,12 @@ Europe,2020,747636000,General Population
 Latin America,2020,653962000,General Population
 Northern America,2020,368870000,General Population
 Oceania,2020,42678000,General Population
-Africa,2050,2489275000,General Population
-Asia,2050,5290263000,General Population
-Europe,2050,710486000,General Population
-Latin America,2050,762432000,General Population
-Northern America,2050,425200000,General Population
-Oceania,2050,57376000,General Population
-Africa,1910,303000,Hindu
-Asia,1910,222876000,Hindu
-Europe,1910,65,Hindu
-Latin America,1910,186000,Hindu
-Northern America,1910,1200,Hindu
-Oceania,1910,16400,Hindu
+Africa,1970,1000000,Hindu
+Asia,1970,465289700,Hindu
+Europe,1970,244310,Hindu
+Latin America,1970,595000,Hindu
+Northern America,1970,120000,Hindu
+Oceania,1970,184830,Hindu
 Africa,2010,2930000,Hindu
 Asia,2010,941481000,Hindu
 Europe,2010,1052000,Hindu
@@ -137,18 +107,12 @@ Europe,2020,1275000,Hindu
 Latin America,2020,819000,Hindu
 Northern America,2020,2080000,Hindu
 Oceania,2020,815000,Hindu
-Africa,2050,5031000,Hindu
-Asia,2050,1194647000,Hindu
-Europe,2050,1911000,Hindu
-Latin America,2050,850000,Hindu
-Northern America,2050,3280000,Hindu
-Oceania,2050,1137000,Hindu
-Africa,1910,39916000,Muslim
-Asia,1910,171690000,Muslim
-Europe,1910,10048000,Muslim
-Latin America,1910,67800,Muslim
-Northern America,1910,11700,Muslim
-Oceania,1910,14800,Muslim
+Africa,1970,148210000,Muslim
+Asia,1970,406559000,Muslim
+Europe,1970,18273000,Muslim
+Latin America,1970,424800,Muslim
+Northern America,1970,842000,Muslim
+Oceania,1970,70900,Muslim
 Africa,2010,425860000,Muslim
 Asia,2010,1078854000,Muslim
 Europe,2010,41492000,Muslim
@@ -161,9 +125,3 @@ Europe,2020,50647000,Muslim
 Latin America,2020,1773000,Muslim
 Northern America,2020,5671000,Muslim
 Oceania,2020,888000,Muslim
-Africa,2050,1043699000,Muslim
-Asia,2050,1708609000,Muslim
-Europe,2050,73792000,Muslim
-Latin America,2050,2699000,Muslim
-Northern America,2050,12551000,Muslim
-Oceania,2050,1403000,Muslim
