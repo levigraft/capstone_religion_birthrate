@@ -1,315 +1,252 @@
 Indicators,Region,Year,Percent Change
-Births,Eastern Africa,1970-2010,148.0
 CBR,Eastern Africa,1970-2010,-21.15
 TFR,Eastern Africa,1970-2010,-26.15
 NRR,Eastern Africa,1970-2010,-7.12
 Population,Eastern Africa,1970-2010,214.51
-Births,Eastern Africa,2010-2020,14.07
 CBR,Eastern Africa,2010-2020,-12.71
 TFR,Eastern Africa,2010-2020,-16.74
 NRR,Eastern Africa,2010-2020,-11.53
 Population,Eastern Africa,2010-2020,30.8
-Births,Eastern Africa,1970-2020,182.89
 CBR,Eastern Africa,1970-2020,-31.17
 TFR,Eastern Africa,1970-2020,-38.51
 NRR,Eastern Africa,1970-2020,-17.83
 Population,Eastern Africa,1970-2020,311.37
-Births,Western Europe,1970-2010,-21.38
 CBR,Western Europe,1970-2010,-30.95
 TFR,Western Europe,1970-2010,-24.67
 NRR,Western Europe,1970-2010,-22.72
 Population,Western Europe,1970-2010,13.88
-Births,Western Europe,2010-2020,-1.32
 CBR,Western Europe,2010-2020,-5.46
 TFR,Western Europe,2010-2020,-4.13
 NRR,Western Europe,2010-2020,-4.16
 Population,Western Europe,2010-2020,4.44
-Births,Western Europe,1970-2020,-22.41
 CBR,Western Europe,1970-2020,-34.73
 TFR,Western Europe,1970-2020,-27.78
 NRR,Western Europe,1970-2020,-25.93
 Population,Western Europe,1970-2020,18.93
-Births,South-central Asia,1970-2010,33.32
 CBR,South-central Asia,1970-2010,-36.26
 TFR,South-central Asia,1970-2010,-50.12
 NRR,South-central Asia,1970-2010,-39.86
 Population,South-central Asia,1970-2010,135.73
-Births,South-central Asia,2010-2020,-6.92
 CBR,South-central Asia,2010-2020,-7.96
 TFR,South-central Asia,2010-2020,-1.46
 NRR,South-central Asia,2010-2020,1.35
 Population,South-central Asia,2010-2020,13.78
-Births,South-central Asia,1970-2020,24.09
 CBR,South-central Asia,1970-2020,-41.34
 TFR,South-central Asia,1970-2020,-50.85
 NRR,South-central Asia,1970-2020,-39.05
 Population,South-central Asia,1970-2020,168.22
-Births,Polynesia,1970-2010,-1.62
 CBR,Polynesia,1970-2010,-40.17
 TFR,Polynesia,1970-2010,-50.27
 NRR,Polynesia,1970-2010,-45.45
 Population,Polynesia,1970-2010,65.83
-Births,Polynesia,2010-2020,-17.04
 CBR,Polynesia,2010-2020,-19.19
 TFR,Polynesia,2010-2020,-16.17
 NRR,Polynesia,2010-2020,-16.21
 Population,Polynesia,2010-2020,2.74
-Births,Polynesia,1970-2020,-18.38
 CBR,Polynesia,1970-2020,-51.66
 TFR,Polynesia,1970-2020,-58.31
 NRR,Polynesia,1970-2020,-54.29
 Population,Polynesia,1970-2020,70.37
-Births,Micronesia,1970-2010,36.92
 CBR,Micronesia,1970-2010,-32.36
 TFR,Micronesia,1970-2010,-42.59
 NRR,Micronesia,1970-2010,-38.83
 Population,Micronesia,1970-2010,105.03
-Births,Micronesia,2010-2020,-12.93
 CBR,Micronesia,2010-2020,-13.18
 TFR,Micronesia,2010-2020,-10.56
 NRR,Micronesia,2010-2020,-10.22
 Population,Micronesia,2010-2020,0.1
-Births,Micronesia,1970-2020,19.22
 CBR,Micronesia,1970-2020,-41.27
 TFR,Micronesia,1970-2020,-48.65
 NRR,Micronesia,1970-2020,-45.08
 Population,Micronesia,1970-2020,105.25
-Births,Melanesia,1970-2010,97.55
 CBR,Melanesia,1970-2010,-29.68
 TFR,Melanesia,1970-2010,-37.85
 NRR,Melanesia,1970-2010,-29.66
 Population,Melanesia,1970-2010,180.45
-Births,Melanesia,2010-2020,7.89
 CBR,Melanesia,2010-2020,-14.31
 TFR,Melanesia,2010-2020,-14.23
 NRR,Melanesia,2010-2020,-12.08
 Population,Melanesia,2010-2020,26.45
-Births,Melanesia,1970-2020,113.14
 CBR,Melanesia,1970-2020,-39.74
 TFR,Melanesia,1970-2020,-46.7
 NRR,Melanesia,1970-2020,-38.16
 Population,Melanesia,1970-2020,254.61
-Births,Australia/New Zealand,1970-2010,14.3
 CBR,Australia/New Zealand,1970-2010,-33.46
 TFR,Australia/New Zealand,1970-2010,-31.93
 NRR,Australia/New Zealand,1970-2010,-30.68
 Population,Australia/New Zealand,1970-2010,73.07
-Births,Australia/New Zealand,2010-2020,-3.38
 CBR,Australia/New Zealand,2010-2020,-16.94
 TFR,Australia/New Zealand,2010-2020,-19.39
 NRR,Australia/New Zealand,2010-2020,-19.35
 Population,Australia/New Zealand,2010-2020,16.67
-Births,Australia/New Zealand,1970-2020,10.43
 CBR,Australia/New Zealand,1970-2020,-44.73
 TFR,Australia/New Zealand,1970-2020,-45.13
 NRR,Australia/New Zealand,1970-2020,-44.09
 Population,Australia/New Zealand,1970-2020,101.93
-Births,South America,1970-2010,1.53
 CBR,South America,1970-2010,-50.14
 TFR,South America,1970-2010,-57.31
 NRR,South America,1970-2010,-50.61
 Population,South America,1970-2010,105.03
-Births,South America,2010-2020,-11.86
 CBR,South America,2010-2020,-19.2
 TFR,South America,2010-2020,-14.21
 NRR,South America,2010-2020,-13.73
 Population,South America,2010-2020,9.32
-Births,South America,1970-2020,-10.51
 CBR,South America,1970-2020,-59.72
 TFR,South America,1970-2020,-63.38
 NRR,South America,1970-2020,-57.39
 Population,South America,1970-2020,124.13
-Births,Central America,1970-2010,10.68
 CBR,Central America,1970-2010,-51.63
 TFR,Central America,1970-2010,-61.92
 NRR,Central America,1970-2010,-55.91
 Population,Central America,1970-2010,130.62
-Births,Central America,2010-2020,-7.78
 CBR,Central America,2010-2020,-18.21
 TFR,Central America,2010-2020,-15.96
 NRR,Central America,2010-2020,-15.44
 Population,Central America,2010-2020,13.1
-Births,Central America,1970-2020,2.07
 CBR,Central America,1970-2020,-60.44
 TFR,Central America,1970-2020,-68.0
 NRR,Central America,1970-2020,-62.72
 Population,Central America,1970-2020,160.84
-Births,Caribbean,1970-2010,-10.95
 CBR,Caribbean,1970-2010,-45.46
 TFR,Caribbean,1970-2010,-50.15
 NRR,Caribbean,1970-2010,-49.4
 Population,Caribbean,1970-2010,64.38
-Births,Caribbean,2010-2020,-11.15
 CBR,Caribbean,2010-2020,-15.86
 TFR,Caribbean,2010-2020,-12.11
 NRR,Caribbean,2010-2020,-3.99
 Population,Caribbean,2010-2020,5.57
-Births,Caribbean,1970-2020,-20.88
 CBR,Caribbean,1970-2020,-54.11
 TFR,Caribbean,1970-2020,-56.19
 NRR,Caribbean,1970-2020,-51.42
 Population,Caribbean,1970-2020,73.55
-Births,Southern Europe,1970-2010,-34.74
 CBR,Southern Europe,1970-2010,-45.87
 TFR,Southern Europe,1970-2010,-44.32
 NRR,Southern Europe,1970-2010,-41.82
 Population,Southern Europe,1970-2010,20.81
-Births,Southern Europe,2010-2020,-25.62
 CBR,Southern Europe,2010-2020,-24.87
 TFR,Southern Europe,2010-2020,-10.79
 NRR,Southern Europe,2010-2020,-10.54
 Population,Southern Europe,2010-2020,-0.8
-Births,Southern Europe,1970-2020,-51.46
 CBR,Southern Europe,1970-2020,-59.33
 TFR,Southern Europe,1970-2020,-50.33
 NRR,Southern Europe,1970-2020,-47.95
 Population,Southern Europe,1970-2020,19.85
-Births,Middle Africa,1970-2010,209.64
 CBR,Middle Africa,1970-2010,-7.35
 TFR,Middle Africa,1970-2010,-4.13
 NRR,Middle Africa,1970-2010,18.64
 Population,Middle Africa,1970-2010,232.97
-Births,Middle Africa,2010-2020,27.91
 CBR,Middle Africa,2010-2020,-7.5
 TFR,Middle Africa,2010-2020,-8.21
 NRR,Middle Africa,2010-2020,-2.05
 Population,Middle Africa,2010-2020,38.4
-Births,Middle Africa,1970-2020,296.07
 CBR,Middle Africa,1970-2020,-14.31
 TFR,Middle Africa,1970-2020,-12.0
 NRR,Middle Africa,1970-2020,16.2
 Population,Middle Africa,1970-2020,360.84
-Births,Northern Europe,1970-2010,-9.1
 CBR,Northern Europe,1970-2010,-20.5
 TFR,Northern Europe,1970-2010,-18.91
 NRR,Northern Europe,1970-2010,-17.27
 Population,Northern Europe,1970-2010,14.29
-Births,Northern Europe,2010-2020,-14.41
 CBR,Northern Europe,2010-2020,-19.44
 TFR,Northern Europe,2010-2020,-16.8
 NRR,Northern Europe,2010-2020,-16.85
 Population,Northern Europe,2010-2020,6.43
-Births,Northern Europe,1970-2020,-22.2
 CBR,Northern Europe,1970-2020,-35.96
 TFR,Northern Europe,1970-2020,-32.54
 NRR,Northern Europe,1970-2020,-31.21
 Population,Northern Europe,1970-2020,21.64
-Births,Eastern Europe,1970-2010,-19.64
 CBR,Eastern Europe,1970-2010,-24.9
 TFR,Eastern Europe,1970-2010,-28.58
 NRR,Eastern Europe,1970-2010,-27.27
 Population,Eastern Europe,1970-2010,7.34
-Births,Eastern Europe,2010-2020,-19.76
 CBR,Eastern Europe,2010-2020,-19.32
 TFR,Eastern Europe,2010-2020,-4.17
 NRR,Eastern Europe,2010-2020,-3.37
 Population,Eastern Europe,2010-2020,-0.39
-Births,Eastern Europe,1970-2020,-35.52
 CBR,Eastern Europe,1970-2020,-39.42
 TFR,Eastern Europe,1970-2020,-31.56
 NRR,Eastern Europe,1970-2020,-29.72
 Population,Eastern Europe,1970-2020,6.92
-Births,Western Asia,1970-2010,58.55
 CBR,Western Asia,1970-2010,-41.66
 TFR,Western Asia,1970-2010,-50.26
 NRR,Western Asia,1970-2010,-40.55
 Population,Western Asia,1970-2010,172.39
-Births,Western Asia,2010-2020,3.38
 CBR,Western Asia,2010-2020,-15.49
 TFR,Western Asia,2010-2020,-11.68
 NRR,Western Asia,2010-2020,-10.85
 Population,Western Asia,2010-2020,22.85
-Births,Western Asia,1970-2020,63.92
 CBR,Western Asia,1970-2020,-50.69
 TFR,Western Asia,1970-2020,-56.06
 NRR,Western Asia,1970-2020,-47.0
 Population,Western Asia,1970-2020,234.63
-Births,South-Eastern Asia,1970-2010,11.19
 CBR,South-Eastern Asia,1970-2010,-48.4
 TFR,South-Eastern Asia,1970-2010,-57.51
 NRR,South-Eastern Asia,1970-2010,-50.22
 Population,South-Eastern Asia,1970-2010,116.73
-Births,South-Eastern Asia,2010-2020,-11.31
 CBR,South-Eastern Asia,2010-2020,-20.67
 TFR,South-Eastern Asia,2010-2020,-15.41
 NRR,South-Eastern Asia,2010-2020,-14.44
 Population,South-Eastern Asia,2010-2020,12.09
-Births,South-Eastern Asia,1970-2020,-1.39
 CBR,South-Eastern Asia,1970-2020,-59.07
 TFR,South-Eastern Asia,1970-2020,-64.06
 NRR,South-Eastern Asia,1970-2020,-57.41
 Population,South-Eastern Asia,1970-2020,142.92
-Births,Eastern Asia,1970-2010,-43.36
 CBR,Eastern Asia,1970-2010,-64.39
 TFR,Eastern Asia,1970-2010,-69.13
 NRR,Eastern Asia,1970-2010,-65.93
 Population,Eastern Asia,1970-2010,60.56
-Births,Eastern Asia,2010-2020,-32.25
 CBR,Eastern Asia,2010-2020,-35.44
 TFR,Eastern Asia,2010-2020,-25.84
 NRR,Eastern Asia,2010-2020,-23.16
 Population,Eastern Asia,2010-2020,5.22
-Births,Eastern Asia,1970-2020,-61.63
 CBR,Eastern Asia,1970-2020,-77.01
 TFR,Eastern Asia,1970-2020,-77.11
 NRR,Eastern Asia,1970-2020,-73.82
 Population,Eastern Asia,1970-2020,68.94
-Births,Western Africa,1970-2010,155.45
 CBR,Western Africa,1970-2010,-14.32
 TFR,Western Africa,1970-2010,-14.69
 NRR,Western Africa,1970-2010,9.39
 Population,Western Africa,1970-2010,197.63
-Births,Western Africa,2010-2020,6.66
 CBR,Western Africa,2010-2020,-17.89
 TFR,Western Africa,2010-2020,-18.79
 NRR,Western Africa,2010-2020,-15.09
 Population,Western Africa,2010-2020,30.19
-Births,Western Africa,1970-2020,172.47
 CBR,Western Africa,1970-2020,-29.64
 TFR,Western Africa,1970-2020,-30.72
 NRR,Western Africa,1970-2020,-7.12
 Population,Western Africa,1970-2020,287.48
-Births,Southern Africa,1970-2010,37.59
 CBR,Southern Africa,1970-2010,-42.08
 TFR,Southern Africa,1970-2010,-55.3
 NRR,Southern Africa,1970-2010,-51.93
 Population,Southern Africa,1970-2010,139.61
-Births,Southern Africa,2010-2020,2.13
 CBR,Southern Africa,2010-2020,-11.9
 TFR,Southern Africa,2010-2020,-7.92
 NRR,Southern Africa,2010-2020,-0.8
 Population,Southern Africa,2010-2020,15.7
-Births,Southern Africa,1970-2020,40.52
 CBR,Southern Africa,1970-2020,-48.97
 TFR,Southern Africa,1970-2020,-58.84
 NRR,Southern Africa,1970-2020,-52.32
 Population,Southern Africa,1970-2020,177.22
-Births,Northern Africa,1970-2010,57.46
 CBR,Northern Africa,1970-2010,-38.4
 TFR,Northern Africa,1970-2010,-49.92
 NRR,Northern Africa,1970-2010,-33.96
 Population,Northern Africa,1970-2010,156.6
-Births,Northern Africa,2010-2020,4.16
 CBR,Northern Africa,2010-2020,-14.28
 TFR,Northern Africa,2010-2020,-7.47
 NRR,Northern Africa,2010-2020,-6.01
 Population,Northern Africa,2010-2020,21.62
-Births,Northern Africa,1970-2020,64.0
 CBR,Northern Africa,1970-2020,-47.2
 TFR,Northern Africa,1970-2020,-53.67
 NRR,Northern Africa,1970-2020,-37.93
 Population,Northern Africa,1970-2020,212.07
-Births,Northern America,1970-2010,2.5
 CBR,Northern America,1970-2010,-31.94
 TFR,Northern America,1970-2010,-24.14
 NRR,Northern America,1970-2010,-22.42
 Population,Northern America,1970-2010,50.9
-Births,Northern America,2010-2020,-8.09
 CBR,Northern America,2010-2020,-15.97
 TFR,Northern America,2010-2020,-15.55
 NRR,Northern America,2010-2020,-15.68
 Population,Northern America,2010-2020,9.78
-Births,Northern America,1970-2020,-5.8
 CBR,Northern America,1970-2020,-42.81
 TFR,Northern America,1970-2020,-35.93
 NRR,Northern America,1970-2020,-34.58

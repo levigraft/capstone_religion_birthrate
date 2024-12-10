@@ -1,0 +1,286 @@
+Religion,Region,Year,Percent Change
+Agnostic,Eastern Africa,1970-2010,200.0
+Agnostic,Eastern Africa,2010-2020,-33.33
+Agnostic,Eastern Africa,1970-2020,100.0
+Agnostic,Middle Africa,1970-2010,500.0
+Agnostic,Middle Africa,2010-2020,0.0
+Agnostic,Middle Africa,1970-2020,500.0
+Agnostic,Northern Africa,1970-2010,100.0
+Agnostic,Northern Africa,2010-2020,16.67
+Agnostic,Northern Africa,1970-2020,133.33
+Agnostic,Southern Africa,1970-2010,700.0
+Agnostic,Southern Africa,2010-2020,0.0
+Agnostic,Southern Africa,1970-2020,700.0
+Agnostic,Western Africa,1970-2010,200.0
+Agnostic,Western Africa,2010-2020,0.0
+Agnostic,Western Africa,1970-2020,200.0
+Agnostic,Eastern Asia,1970-2010,-28.95
+Agnostic,Eastern Asia,2010-2020,1.35
+Agnostic,Eastern Asia,1970-2020,-27.99
+Agnostic,South-central Asia,1970-2010,-33.33
+Agnostic,South-central Asia,2010-2020,-90.0
+Agnostic,South-central Asia,1970-2020,-93.33
+Agnostic,South-eastern Asia,1970-2010,45.0
+Agnostic,South-eastern Asia,2010-2020,-3.45
+Agnostic,South-eastern Asia,1970-2020,40.0
+Agnostic,Western Asia,1970-2010,-70.45
+Agnostic,Western Asia,2010-2020,-7.69
+Agnostic,Western Asia,1970-2020,-72.73
+Agnostic,Eastern Europe,1970-2010,-62.09
+Agnostic,Eastern Europe,2010-2020,-5.0
+Agnostic,Eastern Europe,1970-2020,-63.98
+Agnostic,Northern Europe,1970-2010,94.51
+Agnostic,Northern Europe,2010-2020,9.6
+Agnostic,Northern Europe,1970-2020,113.19
+Agnostic,Southern Europe,1970-2010,16.44
+Agnostic,Southern Europe,2010-2020,8.24
+Agnostic,Southern Europe,1970-2020,26.03
+Agnostic,Western Europe,1970-2010,182.19
+Agnostic,Western Europe,2010-2020,9.71
+Agnostic,Western Europe,1970-2020,209.59
+Agnostic,Caribbean,1970-2010,-38.53
+Agnostic,Caribbean,2010-2020,-4.48
+Agnostic,Caribbean,1970-2020,-41.28
+Agnostic,Central America,1970-2010,84.62
+Agnostic,Central America,2010-2020,12.5
+Agnostic,Central America,1970-2020,107.69
+Agnostic,South America,1970-2010,158.33
+Agnostic,South America,2010-2020,12.9
+Agnostic,South America,1970-2020,191.67
+Agnostic,Northern America,1970-2010,174.51
+Agnostic,Northern America,2010-2020,24.29
+Agnostic,Northern America,1970-2020,241.18
+Agnostic,Australia/New Zealand,1970-2010,385.71
+Agnostic,Australia/New Zealand,2010-2020,31.86
+Agnostic,Australia/New Zealand,1970-2020,540.48
+Agnostic,Melanesia,1970-2010,200.0
+Agnostic,Melanesia,2010-2020,0.0
+Agnostic,Melanesia,1970-2020,200.0
+Agnostic,Micronesia,1970-2010,140.0
+Agnostic,Micronesia,2010-2020,8.33
+Agnostic,Micronesia,1970-2020,160.0
+Agnostic,Polynesia,1970-2010,266.67
+Agnostic,Polynesia,2010-2020,4.55
+Agnostic,Polynesia,1970-2020,283.33
+Atheist,Northern Africa,1970-2010,0.0
+Atheist,Northern Africa,2010-2020,0.0
+Atheist,Northern Africa,1970-2020,0.0
+Atheist,Eastern Asia,1970-2010,-32.32
+Atheist,Eastern Asia,2010-2020,-4.48
+Atheist,Eastern Asia,1970-2020,-35.35
+Atheist,South-central Asia,1970-2010,-77.78
+Atheist,South-central Asia,2010-2020,-50.0
+Atheist,South-central Asia,1970-2020,-88.89
+Atheist,South-eastern Asia,1970-2010,120.0
+Atheist,South-eastern Asia,2010-2020,-9.09
+Atheist,South-eastern Asia,1970-2020,100.0
+Atheist,Western Asia,1970-2010,-95.83
+Atheist,Western Asia,2010-2020,0.0
+Atheist,Western Asia,1970-2020,-95.83
+Atheist,Eastern Europe,1970-2010,-90.18
+Atheist,Eastern Europe,2010-2020,-25.0
+Atheist,Eastern Europe,1970-2020,-92.64
+Atheist,Northern Europe,1970-2010,-4.0
+Atheist,Northern Europe,2010-2020,-4.17
+Atheist,Northern Europe,1970-2020,-8.0
+Atheist,Southern Europe,1970-2010,-8.7
+Atheist,Southern Europe,2010-2020,0.0
+Atheist,Southern Europe,1970-2020,-8.7
+Atheist,Western Europe,1970-2010,26.09
+Atheist,Western Europe,2010-2020,3.45
+Atheist,Western Europe,1970-2020,30.43
+Atheist,Caribbean,1970-2010,-25.0
+Atheist,Caribbean,2010-2020,-13.33
+Atheist,Caribbean,1970-2020,-35.0
+Atheist,South America,1970-2010,25.0
+Atheist,South America,2010-2020,0.0
+Atheist,South America,1970-2020,25.0
+Atheist,Northern America,1970-2010,500.0
+Atheist,Northern America,2010-2020,383.33
+Atheist,Northern America,1970-2020,2800.0
+Atheist,Australia/New Zealand,1970-2010,28.57
+Atheist,Australia/New Zealand,2010-2020,216.67
+Atheist,Australia/New Zealand,1970-2020,307.14
+Atheist,Polynesia,1970-2010,100.0
+Atheist,Polynesia,2010-2020,0.0
+Atheist,Polynesia,1970-2020,100.0
+Buddhist,Eastern Asia,1970-2010,46.15
+Buddhist,Eastern Asia,2010-2020,0.53
+Buddhist,Eastern Asia,1970-2020,46.92
+Buddhist,South-central Asia,1970-2010,-11.11
+Buddhist,South-central Asia,2010-2020,-6.25
+Buddhist,South-central Asia,1970-2020,-16.67
+Buddhist,South-eastern Asia,1970-2010,-14.92
+Buddhist,South-eastern Asia,2010-2020,-4.1
+Buddhist,South-eastern Asia,1970-2020,-18.41
+Buddhist,Eastern Europe,1970-2010,0.0
+Buddhist,Eastern Europe,2010-2020,0.0
+Buddhist,Eastern Europe,1970-2020,0.0
+Buddhist,South America,1970-2010,0.0
+Buddhist,South America,2010-2020,0.0
+Buddhist,South America,1970-2020,0.0
+Buddhist,Northern America,1970-2010,1200.0
+Buddhist,Northern America,2010-2020,0.0
+Buddhist,Northern America,1970-2020,1200.0
+Buddhist,Australia/New Zealand,1970-2010,2000.0
+Buddhist,Australia/New Zealand,2010-2020,47.62
+Buddhist,Australia/New Zealand,1970-2020,3000.0
+Buddhist,Melanesia,1970-2010,100.0
+Buddhist,Melanesia,2010-2020,0.0
+Buddhist,Melanesia,1970-2020,100.0
+Buddhist,Micronesia,1970-2010,1600.0
+Buddhist,Micronesia,2010-2020,-5.88
+Buddhist,Micronesia,1970-2020,1500.0
+Buddhist,Polynesia,1970-2010,0.0
+Buddhist,Polynesia,2010-2020,0.0
+Buddhist,Polynesia,1970-2020,0.0
+Christian,Eastern Africa,1970-2010,33.87
+Christian,Eastern Africa,2010-2020,-0.61
+Christian,Eastern Africa,1970-2020,33.06
+Christian,Middle Africa,1970-2010,14.11
+Christian,Middle Africa,2010-2020,0.61
+Christian,Middle Africa,1970-2020,14.8
+Christian,Northern Africa,1970-2010,25.0
+Christian,Northern Africa,2010-2020,-41.25
+Christian,Northern Africa,1970-2020,-26.56
+Christian,Southern Africa,1970-2010,9.14
+Christian,Southern Africa,2010-2020,-0.24
+Christian,Southern Africa,1970-2020,8.87
+Christian,Western Africa,1970-2010,31.29
+Christian,Western Africa,2010-2020,-0.27
+Christian,Western Africa,1970-2020,30.94
+Christian,Eastern Asia,1970-2010,636.36
+Christian,Eastern Asia,2010-2020,-4.94
+Christian,Eastern Asia,1970-2020,600.0
+Christian,South-central Asia,1970-2010,14.29
+Christian,South-central Asia,2010-2020,0.0
+Christian,South-central Asia,1970-2020,14.29
+Christian,South-eastern Asia,1970-2010,17.65
+Christian,South-eastern Asia,2010-2020,4.09
+Christian,South-eastern Asia,1970-2020,22.46
+Christian,Western Asia,1970-2010,-16.44
+Christian,Western Asia,2010-2020,-8.2
+Christian,Western Asia,1970-2020,-23.29
+Christian,Eastern Europe,1970-2010,47.63
+Christian,Eastern Europe,2010-2020,-0.12
+Christian,Eastern Europe,1970-2020,47.45
+Christian,Northern Europe,1970-2010,-13.43
+Christian,Northern Europe,2010-2020,-5.75
+Christian,Northern Europe,1970-2020,-18.4
+Christian,Southern Europe,1970-2010,-5.39
+Christian,Southern Europe,2010-2020,-2.3
+Christian,Southern Europe,1970-2020,-7.57
+Christian,Western Europe,1970-2010,-22.21
+Christian,Western Europe,2010-2020,-4.64
+Christian,Western Europe,1970-2020,-25.82
+Christian,Caribbean,1970-2010,6.78
+Christian,Caribbean,2010-2020,0.72
+Christian,Caribbean,1970-2020,7.54
+Christian,Central America,1970-2010,-1.74
+Christian,Central America,2010-2020,-0.21
+Christian,Central America,1970-2020,-1.95
+Christian,South America,1970-2010,-3.57
+Christian,South America,2010-2020,-0.33
+Christian,South America,1970-2020,-3.89
+Christian,Northern America,1970-2010,-13.6
+Christian,Northern America,2010-2020,-7.23
+Christian,Northern America,1970-2020,-19.85
+Christian,Australia/New Zealand,1970-2010,-24.12
+Christian,Australia/New Zealand,2010-2020,-19.63
+Christian,Australia/New Zealand,1970-2020,-39.01
+Christian,Melanesia,1970-2010,3.39
+Christian,Melanesia,2010-2020,0.66
+Christian,Melanesia,1970-2020,4.07
+Christian,Micronesia,1970-2010,-2.72
+Christian,Micronesia,2010-2020,0.0
+Christian,Micronesia,1970-2020,-2.72
+Christian,Polynesia,1970-2010,-2.04
+Christian,Polynesia,2010-2020,0.0
+Christian,Polynesia,1970-2020,-2.04
+Hindu,Eastern Africa,1970-2010,0.0
+Hindu,Eastern Africa,2010-2020,-20.0
+Hindu,Eastern Africa,1970-2020,-20.0
+Hindu,Southern Africa,1970-2010,23.53
+Hindu,Southern Africa,2010-2020,0.0
+Hindu,Southern Africa,1970-2020,23.53
+Hindu,South-central Asia,1970-2010,-10.34
+Hindu,South-central Asia,2010-2020,-2.46
+Hindu,South-central Asia,1970-2020,-12.54
+Hindu,South-eastern Asia,1970-2010,-7.69
+Hindu,South-eastern Asia,2010-2020,0.0
+Hindu,South-eastern Asia,1970-2020,-7.69
+Hindu,Northern Europe,1970-2010,133.33
+Hindu,Northern Europe,2010-2020,0.0
+Hindu,Northern Europe,1970-2020,133.33
+Hindu,Caribbean,1970-2010,-18.18
+Hindu,Caribbean,2010-2020,0.0
+Hindu,Caribbean,1970-2020,-18.18
+Hindu,South America,1970-2010,-50.0
+Hindu,South America,2010-2020,0.0
+Hindu,South America,1970-2020,-50.0
+Hindu,Northern America,1970-2010,400.0
+Hindu,Northern America,2010-2020,20.0
+Hindu,Northern America,1970-2020,500.0
+Hindu,Australia/New Zealand,1970-2010,900.0
+Hindu,Australia/New Zealand,2010-2020,90.0
+Hindu,Australia/New Zealand,1970-2020,1800.0
+Hindu,Melanesia,1970-2010,-48.08
+Hindu,Melanesia,2010-2020,-18.52
+Hindu,Melanesia,1970-2020,-57.69
+Muslim,Eastern Africa,1970-2010,12.31
+Muslim,Eastern Africa,2010-2020,0.91
+Muslim,Eastern Africa,1970-2020,13.33
+Muslim,Middle Africa,1970-2010,12.79
+Muslim,Middle Africa,2010-2020,-1.03
+Muslim,Middle Africa,1970-2020,11.63
+Muslim,Northern Africa,1970-2010,-3.36
+Muslim,Northern Africa,2010-2020,5.5
+Muslim,Northern Africa,1970-2020,1.95
+Muslim,Southern Africa,1970-2010,36.36
+Muslim,Southern Africa,2010-2020,6.67
+Muslim,Southern Africa,1970-2020,45.45
+Muslim,Western Africa,1970-2010,15.91
+Muslim,Western Africa,2010-2020,1.76
+Muslim,Western Africa,1970-2020,17.95
+Muslim,Eastern Asia,1970-2010,16.67
+Muslim,Eastern Asia,2010-2020,7.14
+Muslim,Eastern Asia,1970-2020,25.0
+Muslim,South-central Asia,1970-2010,-47.58
+Muslim,South-central Asia,2010-2020,3.91
+Muslim,South-central Asia,1970-2020,-45.53
+Muslim,South-eastern Asia,1970-2010,6.65
+Muslim,South-eastern Asia,2010-2020,0.81
+Muslim,South-eastern Asia,1970-2020,7.51
+Muslim,Western Asia,1970-2010,7.64
+Muslim,Western Asia,2010-2020,0.45
+Muslim,Western Asia,1970-2020,8.12
+Muslim,Eastern Europe,1970-2010,35.71
+Muslim,Eastern Europe,2010-2020,14.04
+Muslim,Eastern Europe,1970-2020,54.76
+Muslim,Northern Europe,1970-2010,262.5
+Muslim,Northern Europe,2010-2020,89.66
+Muslim,Northern Europe,1970-2020,587.5
+Muslim,Southern Europe,1970-2010,106.25
+Muslim,Southern Europe,2010-2020,13.64
+Muslim,Southern Europe,1970-2020,134.37
+Muslim,Western Europe,1970-2010,408.33
+Muslim,Western Europe,2010-2020,19.67
+Muslim,Western Europe,1970-2020,508.33
+Muslim,Caribbean,1970-2010,0.0
+Muslim,Caribbean,2010-2020,0.0
+Muslim,Caribbean,1970-2020,0.0
+Muslim,Central America,1970-2010,0.0
+Muslim,Central America,2010-2020,0.0
+Muslim,Central America,1970-2020,0.0
+Muslim,South America,1970-2010,50.0
+Muslim,South America,2010-2020,0.0
+Muslim,South America,1970-2020,50.0
+Muslim,Northern America,1970-2010,300.0
+Muslim,Northern America,2010-2020,-6.25
+Muslim,Northern America,1970-2020,275.0
+Muslim,Australia/New Zealand,1970-2010,800.0
+Muslim,Australia/New Zealand,2010-2020,50.0
+Muslim,Australia/New Zealand,1970-2020,1250.0
+Muslim,Melanesia,1970-2010,-46.15
+Muslim,Melanesia,2010-2020,-14.29
+Muslim,Melanesia,1970-2020,-53.85

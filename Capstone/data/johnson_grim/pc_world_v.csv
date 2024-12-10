@@ -1,22 +1,19 @@
 Religion,Region,Year,Percent Change
-Agnostic,World,1970-2010,24.59
-Agnostic,World,2010-2020,11.11
-Agnostic,World,1970-2020,38.43
-Atheist,World,1970-2010,-17.26
-Atheist,World,2010-2020,9.42
-Atheist,World,1970-2020,-9.47
-Buddhist,World,1970-2010,112.05
-Buddhist,World,2010-2020,7.63
-Buddhist,World,1970-2020,128.24
-Christian,World,1970-2010,85.93
-Christian,World,2010-2020,244.84
-Christian,World,1970-2020,541.17
-Hindu,World,1970-2010,102.93
-Hindu,World,2010-2020,11.56
-Hindu,World,1970-2020,126.39
-Muslim,World,1970-2010,170.51
-Muslim,World,2010-2020,21.43
-Muslim,World,1970-2020,228.48
-General Population,World,1970-2010,136.64
-General Population,World,2010-2020,13.04
-General Population,World,1970-2020,167.49
+Agnostic,World,1970-2010,-33.33
+Agnostic,World,2010-2020,-2.04
+Agnostic,World,1970-2020,-34.69
+Atheist,World,1970-2010,-55.56
+Atheist,World,2010-2020,-5.0
+Atheist,World,1970-2020,-57.78
+Buddhist,World,1970-2010,14.29
+Buddhist,World,2010-2020,-5.56
+Buddhist,World,1970-2020,7.94
+Christian,World,1970-2010,-0.3
+Christian,World,2010-2020,-1.83
+Christian,World,1970-2020,-2.13
+Hindu,World,1970-2010,-85.71
+Hindu,World,2010-2020,655.56
+Hindu,World,1970-2020,7.94
+Muslim,World,1970-2010,45.16
+Muslim,World,2010-2020,7.56
+Muslim,World,1970-2020,56.13
