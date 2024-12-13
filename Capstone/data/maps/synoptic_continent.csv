@@ -1,109 +1,109 @@
-Region,Year,Population,Religion,Religion%,Birth Rate,Fertility Rate
-Africa,1970,588000,Agnostic,0.2,46.92,6.69
-Asia,1970,437146000,Agnostic,20.4,37.99,5.59
-Europe,1970,87540000,Agnostic,13.3,16.08,2.28
-Latin America,1970,6041000,Agnostic,2.1,65.22,9.13
-Northern America,1970,11349000,Agnostic,5.1,18.54,2.49
-Oceania,1970,658700,Agnostic,3.4,25.08,3.57
-Africa,2010,6497000,Agnostic,0.6,37.01,4.89
-Asia,2010,504762000,Agnostic,12.1,18.77,2.32
-Europe,2010,93325000,Agnostic,12.6,11.16,1.61
-Latin America,2010,18712000,Agnostic,3.2,34.56,4.27
-Northern America,2010,48119000,Agnostic,14,12.62,1.89
-Oceania,2010,5529000,Agnostic,15.1,18.21,2.52
-Africa,2020,8215000,Agnostic,0.6,32.14,4.24
-Asia,2020,547520000,Agnostic,11.8,14.73,1.97
-Europe,2020,101371000,Agnostic,13.6,9.27,1.46
-Latin America,2020,22594000,Agnostic,3.5,28.28,3.66
-Northern America,2020,64155000,Agnostic,17.4,10.6,1.6
-Oceania,2020,8281000,Agnostic,19.4,15.52,2.14
-Africa,1970,103000,Atheist,0,46.92,6.69
-Asia,1970,109458000,Atheist,5.1,37.99,5.59
-Europe,1970,53816000,Atheist,8.2,16.08,2.28
-Latin America,1970,1265100,Atheist,0.4,65.22,9.13
-Northern America,1970,300000,Atheist,0.1,18.54,2.49
-Oceania,1970,215210,Atheist,1.1,25.08,3.57
-Africa,2010,571000,Atheist,0.1,37.01,4.89
-Asia,2010,114851000,Atheist,2.8,18.77,2.32
-Europe,2010,15697000,Atheist,2.1,11.16,1.61
-Latin America,2010,2900000,Atheist,0.5,34.56,4.27
-Northern America,2010,2156000,Atheist,0.6,12.62,1.89
-Oceania,2010,477000,Atheist,1.3,18.21,2.52
-Africa,2020,739000,Atheist,0.1,32.14,4.24
-Asia,2020,118157000,Atheist,2.5,14.73,1.97
-Europe,2020,15106000,Atheist,2,9.27,1.46
-Latin America,2020,3202000,Atheist,0.5,28.28,3.66
-Northern America,2020,10587000,Atheist,2.9,10.6,1.6
-Oceania,2020,1732000,Atheist,4.1,15.52,2.14
-Africa,1970,11700,Buddhist,0,46.92,6.69
-Asia,1970,232192500,Buddhist,10.8,37.99,5.59
-Europe,1970,552200,Buddhist,0.1,16.08,2.28
-Latin America,1970,389700,Buddhist,0.1,65.22,9.13
-Northern America,1970,216000,Buddhist,0.1,18.54,2.49
-Oceania,1970,16650,Buddhist,0.1,25.08,3.57
-Africa,2010,254000,Buddhist,0,37.01,4.89
-Asia,2010,487038000,Buddhist,11.7,18.77,2.32
-Europe,2010,1789000,Buddhist,0.2,11.16,1.61
-Latin America,2010,759000,Buddhist,0.1,34.56,4.27
-Northern America,2010,4454000,Buddhist,1.3,12.62,1.89
-Oceania,2010,587000,Buddhist,1.6,18.21,2.52
-Africa,2020,365000,Buddhist,0,32.14,4.24
-Asia,2020,523537000,Buddhist,11.3,14.73,1.97
-Europe,2020,1987000,Buddhist,0.3,9.27,1.46
-Latin America,2020,835000,Buddhist,0.1,28.28,3.66
-Northern America,2020,4953000,Buddhist,1.3,10.6,1.6
-Oceania,2020,980000,Buddhist,2.3,15.52,2.14
-Africa,1970,137867000,Christian,37.7,46.92,6.69
-Asia,1970,97389000,Christian,4.5,37.99,5.59
-Europe,1970,490507000,Christian,74.7,16.08,2.28
-Latin America,1970,269961000,Christian,94.2,65.22,9.13
-Northern America,1970,202363000,Christian,91.2,18.54,2.49
-Oceania,1970,17636000,Christian,92.6,25.08,3.57
-Africa,2010,494053000,Christian,48.3,37.01,4.89
-Asia,2010,342012000,Christian,8.2,18.77,2.32
-Europe,2010,580116000,Christian,78.6,11.16,1.61
-Latin America,2010,544686000,Christian,92.3,34.56,4.27
-Northern America,2010,271554000,Christian,78.8,12.62,1.89
-Oceania,2010,28019000,Christian,76.6,18.21,2.52
-Africa,2020,654913000,Christian,48.9,32.14,4.24
-Asia,2020,377842000,Christian,8.1,14.73,1.97
-Europe,2020,572603000,Christian,76.6,9.27,1.46
-Latin America,2020,653962000,Christian,92.2,28.28,3.66
-Northern America,2020,368870000,Christian,73.1,10.6,1.6
-Oceania,2020,42678000,Christian,67.1,15.52,2.14
-Africa,1970,1000000,Hindu,0.3,46.92,6.69
-Asia,1970,465289700,Hindu,21.7,37.99,5.59
-Europe,1970,244310,Hindu,0,16.08,2.28
-Latin America,1970,595000,Hindu,0.2,65.22,9.13
-Northern America,1970,120000,Hindu,0.1,18.54,2.49
-Oceania,1970,184830,Hindu,1,25.08,3.57
-Africa,2010,2930000,Hindu,0.3,37.01,4.89
-Asia,2010,941481000,Hindu,22.6,18.77,2.32
-Europe,2010,1052000,Hindu,0.1,11.16,1.61
-Latin America,2010,765000,Hindu,0.1,34.56,4.27
-Northern America,2010,1835000,Hindu,0.5,12.62,1.89
-Oceania,2010,513000,Hindu,1.4,18.21,2.52
-Africa,2020,3555000,Hindu,0.3,32.14,4.24
-Asia,2020,1049702000,Hindu,22.6,14.73,1.97
-Europe,2020,1275000,Hindu,0.2,9.27,1.46
-Latin America,2020,819000,Hindu,0.1,28.28,3.66
-Northern America,2020,2080000,Hindu,0.6,10.6,1.6
-Oceania,2020,815000,Hindu,1.9,15.52,2.14
-Africa,1970,148210000,Muslim,40.6,46.92,s
-Asia,1970,406559000,Muslim,18.9,37.99,5.59
-Europe,1970,18273000,Muslim,2.8,16.08,2.28
-Latin America,1970,424800,Muslim,0.1,65.22,9.13
-Northern America,1970,842000,Muslim,0.4,18.54,2.49
-Oceania,1970,70900,Muslim,0.4,25.08,3.57
-Africa,2010,425860000,Muslim,41.7,37.01,4.89
-Asia,2010,1078854000,Muslim,25.9,18.77,2.32
-Europe,2010,41492000,Muslim,5.6,11.16,1.61
-Latin America,2010,1527000,Muslim,0.3,34.56,4.27
-Northern America,2010,5492000,Muslim,1.6,12.62,1.89
-Oceania,2010,549000,Muslim,1.5,18.21,2.52
-Africa,2020,556923000,Muslim,41.5,32.14,4.24
-Asia,2020,1270800000,Muslim,27.4,14.73,1.97
-Europe,2020,50647000,Muslim,6.8,9.27,1.46
-Latin America,2020,1773000,Muslim,0.3,28.28,3.66
-Northern America,2020,5671000,Muslim,1.5,10.6,1.6
-Oceania,2020,888000,Muslim,2.1,15.52,2.14
+Region,Year,Population,Yes or No,Religion,Religion%,Birth Rate,Fertility Rate
+Africa,1970,588000,No Religion,Agnostic,0.2,46.92,6.69
+Asia,1970,437146000,No Religion,Agnostic,20.4,37.99,5.59
+Europe,1970,87540000,No Religion,Agnostic,13.3,16.08,2.28
+Latin America,1970,6041000,No Religion,Agnostic,2.1,65.22,9.13
+Northern America,1970,11349000,No Religion,Agnostic,5.1,18.54,2.49
+Oceania,1970,658700,No Religion,Agnostic,3.4,25.08,3.57
+Africa,2010,6497000,No Religion,Agnostic,0.6,37.01,4.89
+Asia,2010,504762000,No Religion,Agnostic,12.1,18.77,2.32
+Europe,2010,93325000,No Religion,Agnostic,12.6,11.16,1.61
+Latin America,2010,18712000,No Religion,Agnostic,3.2,34.56,4.27
+Northern America,2010,48119000,No Religion,Agnostic,14,12.62,1.89
+Oceania,2010,5529000,No Religion,Agnostic,15.1,18.21,2.52
+Africa,2020,8215000,No Religion,Agnostic,0.6,32.14,4.24
+Asia,2020,547520000,No Religion,Agnostic,11.8,14.73,1.97
+Europe,2020,101371000,No Religion,Agnostic,13.6,9.27,1.46
+Latin America,2020,22594000,No Religion,Agnostic,3.5,28.28,3.66
+Northern America,2020,64155000,No Religion,Agnostic,17.4,10.6,1.6
+Oceania,2020,8281000,No Religion,Agnostic,19.4,15.52,2.14
+Africa,1970,103000,No Religion,Atheist,0,46.92,6.69
+Asia,1970,109458000,No Religion,Atheist,5.1,37.99,5.59
+Europe,1970,53816000,No Religion,Atheist,8.2,16.08,2.28
+Latin America,1970,1265100,No Religion,Atheist,0.4,65.22,9.13
+Northern America,1970,300000,No Religion,Atheist,0.1,18.54,2.49
+Oceania,1970,215210,No Religion,Atheist,1.1,25.08,3.57
+Africa,2010,571000,No Religion,Atheist,0.1,37.01,4.89
+Asia,2010,114851000,No Religion,Atheist,2.8,18.77,2.32
+Europe,2010,15697000,No Religion,Atheist,2.1,11.16,1.61
+Latin America,2010,2900000,No Religion,Atheist,0.5,34.56,4.27
+Northern America,2010,2156000,No Religion,Atheist,0.6,12.62,1.89
+Oceania,2010,477000,No Religion,Atheist,1.3,18.21,2.52
+Africa,2020,739000,No Religion,Atheist,0.1,32.14,4.24
+Asia,2020,118157000,No Religion,Atheist,2.5,14.73,1.97
+Europe,2020,15106000,No Religion,Atheist,2,9.27,1.46
+Latin America,2020,3202000,No Religion,Atheist,0.5,28.28,3.66
+Northern America,2020,10587000,No Religion,Atheist,2.9,10.6,1.6
+Oceania,2020,1732000,No Religion,Atheist,4.1,15.52,2.14
+Africa,1970,11700,Religion,Buddhist,0,46.92,6.69
+Asia,1970,232192500,Religion,Buddhist,10.8,37.99,5.59
+Europe,1970,552200,Religion,Buddhist,0.1,16.08,2.28
+Latin America,1970,389700,Religion,Buddhist,0.1,65.22,9.13
+Northern America,1970,216000,Religion,Buddhist,0.1,18.54,2.49
+Oceania,1970,16650,Religion,Buddhist,0.1,25.08,3.57
+Africa,2010,254000,Religion,Buddhist,0,37.01,4.89
+Asia,2010,487038000,Religion,Buddhist,11.7,18.77,2.32
+Europe,2010,1789000,Religion,Buddhist,0.2,11.16,1.61
+Latin America,2010,759000,Religion,Buddhist,0.1,34.56,4.27
+Northern America,2010,4454000,Religion,Buddhist,1.3,12.62,1.89
+Oceania,2010,587000,Religion,Buddhist,1.6,18.21,2.52
+Africa,2020,365000,Religion,Buddhist,0,32.14,4.24
+Asia,2020,523537000,Religion,Buddhist,11.3,14.73,1.97
+Europe,2020,1987000,Religion,Buddhist,0.3,9.27,1.46
+Latin America,2020,835000,Religion,Buddhist,0.1,28.28,3.66
+Northern America,2020,4953000,Religion,Buddhist,1.3,10.6,1.6
+Oceania,2020,980000,Religion,Buddhist,2.3,15.52,2.14
+Africa,1970,137867000,Religion,Christian,37.7,46.92,6.69
+Asia,1970,97389000,Religion,Christian,4.5,37.99,5.59
+Europe,1970,490507000,Religion,Christian,74.7,16.08,2.28
+Latin America,1970,269961000,Religion,Christian,94.2,65.22,9.13
+Northern America,1970,202363000,Religion,Christian,91.2,18.54,2.49
+Oceania,1970,17636000,Religion,Christian,92.6,25.08,3.57
+Africa,2010,494053000,Religion,Christian,48.3,37.01,4.89
+Asia,2010,342012000,Religion,Christian,8.2,18.77,2.32
+Europe,2010,580116000,Religion,Christian,78.6,11.16,1.61
+Latin America,2010,544686000,Religion,Christian,92.3,34.56,4.27
+Northern America,2010,271554000,Religion,Christian,78.8,12.62,1.89
+Oceania,2010,28019000,Religion,Christian,76.6,18.21,2.52
+Africa,2020,654913000,Religion,Christian,48.9,32.14,4.24
+Asia,2020,377842000,Religion,Christian,8.1,14.73,1.97
+Europe,2020,572603000,Religion,Christian,76.6,9.27,1.46
+Latin America,2020,653962000,Religion,Christian,92.2,28.28,3.66
+Northern America,2020,368870000,Religion,Christian,73.1,10.6,1.6
+Oceania,2020,42678000,Religion,Christian,67.1,15.52,2.14
+Africa,1970,1000000,Religion,Hindu,0.3,46.92,6.69
+Asia,1970,465289700,Religion,Hindu,21.7,37.99,5.59
+Europe,1970,244310,Religion,Hindu,0,16.08,2.28
+Latin America,1970,595000,Religion,Hindu,0.2,65.22,9.13
+Northern America,1970,120000,Religion,Hindu,0.1,18.54,2.49
+Oceania,1970,184830,Religion,Hindu,1,25.08,3.57
+Africa,2010,2930000,Religion,Hindu,0.3,37.01,4.89
+Asia,2010,941481000,Religion,Hindu,22.6,18.77,2.32
+Europe,2010,1052000,Religion,Hindu,0.1,11.16,1.61
+Latin America,2010,765000,Religion,Hindu,0.1,34.56,4.27
+Northern America,2010,1835000,Religion,Hindu,0.5,12.62,1.89
+Oceania,2010,513000,Religion,Hindu,1.4,18.21,2.52
+Africa,2020,3555000,Religion,Hindu,0.3,32.14,4.24
+Asia,2020,1049702000,Religion,Hindu,22.6,14.73,1.97
+Europe,2020,1275000,Religion,Hindu,0.2,9.27,1.46
+Latin America,2020,819000,Religion,Hindu,0.1,28.28,3.66
+Northern America,2020,2080000,Religion,Hindu,0.6,10.6,1.6
+Oceania,2020,815000,Religion,Hindu,1.9,15.52,2.14
+Africa,1970,148210000,Religion,Muslim,40.6,46.92,s
+Asia,1970,406559000,Religion,Muslim,18.9,37.99,5.59
+Europe,1970,18273000,Religion,Muslim,2.8,16.08,2.28
+Latin America,1970,424800,Religion,Muslim,0.1,65.22,9.13
+Northern America,1970,842000,Religion,Muslim,0.4,18.54,2.49
+Oceania,1970,70900,Religion,Muslim,0.4,25.08,3.57
+Africa,2010,425860000,Religion,Muslim,41.7,37.01,4.89
+Asia,2010,1078854000,Religion,Muslim,25.9,18.77,2.32
+Europe,2010,41492000,Religion,Muslim,5.6,11.16,1.61
+Latin America,2010,1527000,Religion,Muslim,0.3,34.56,4.27
+Northern America,2010,5492000,Religion,Muslim,1.6,12.62,1.89
+Oceania,2010,549000,Religion,Muslim,1.5,18.21,2.52
+Africa,2020,556923000,Religion,Muslim,41.5,32.14,4.24
+Asia,2020,1270800000,Religion,Muslim,27.4,14.73,1.97
+Europe,2020,50647000,Religion,Muslim,6.8,9.27,1.46
+Latin America,2020,1773000,Religion,Muslim,0.3,28.28,3.66
+Northern America,2020,5671000,Religion,Muslim,1.5,10.6,1.6
+Oceania,2020,888000,Religion,Muslim,2.1,15.52,2.14

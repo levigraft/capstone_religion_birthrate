@@ -1,0 +1,379 @@
+Subregion,Year,Population,Yes Vs No,Religion,Religion %,Birth Rate,Fertility Rate
+Eastern Africa,1970,56100,No Religion,Agnostic,0.1,49.2,7.06
+Middle Africa,1970,34400,No Religion,Agnostic,0.1,47.05,6.47
+Northern Africa,1970,228000,No Religion,Agnostic,0.3,44.26,6.62
+Southern Africa,1970,151000,No Religion,Agnostic,0.6,39.88,5.71
+Western Africa,1970,119000,No Religion,Agnostic,0.1,48.22,6.71
+Eastern Asia,1970,416136000,No Religion,Agnostic,41.8,35.52,5.37
+South-central Asia,1970,11429000,No Religion,Agnostic,1.5,74.44,10.95
+South-eastern Asia,1970,5676000,No Religion,Agnostic,2,38.43,5.61
+Western Asia,1970,3905000,No Religion,Agnostic,4.4,40.53,5.96
+Eastern Europe,1970,58326000,No Religion,Agnostic,21.1,15.66,2.14
+Northern Europe,1970,7930000,No Religion,Agnostic,9.1,15.89,2.34
+Southern Europe,1970,9261000,No Religion,Agnostic,7.3,18.46,2.61
+Western Europe,1970,12023000,No Religion,Agnostic,7.3,15.04,2.23
+Caribbean,1970,2786000,No Religion,Agnostic,10.9,33.64,4.68
+Central America,1970,890000,No Religion,Agnostic,1.3,44.12,6.46
+South America,1970,2365000,No Religion,Agnostic,1.2,34.36,4.8
+Northern America,1970,11349000,No Religion,Agnostic,5.1,18.54,2.49
+Australia/New Zealand,1970,646000,No Religion,Agnostic,4.2,20.7,2.91
+Melanesia,1970,8900,No Religion,Agnostic,0.3,42.3,6.03
+Micronesia,1970,1300,No Religion,Agnostic,0.5,36.97,5.73
+Polynesia,1970,2500,No Religion,Agnostic,0.6,39.22,6.32
+Eastern Africa,2010,854000,No Religion,Agnostic,0.3,38.79,5.21
+Middle Africa,2010,727000,No Religion,Agnostic,0.6,43.59,6.2
+Northern Africa,2010,1267000,No Religion,Agnostic,0.6,27.26,3.32
+Southern Africa,2010,2765000,No Religion,Agnostic,4.8,23.1,2.55
+Western Africa,2010,884000,No Religion,Agnostic,0.3,41.31,5.72
+Eastern Asia,2010,467232000,No Religion,Agnostic,29.7,12.65,1.66
+South-central Asia,2010,17302000,No Religion,Agnostic,1,47.44,5.46
+South-eastern Asia,2010,17126000,No Religion,Agnostic,2.9,19.83,2.38
+Western Asia,2010,3102000,No Religion,Agnostic,1.3,23.64,2.96
+Eastern Europe,2010,23612000,No Religion,Agnostic,8,11.76,1.53
+Northern Europe,2010,17568000,No Religion,Agnostic,17.7,12.64,1.89
+Southern Europe,2010,13262000,No Religion,Agnostic,8.5,9.99,1.45
+Western Europe,2010,38882000,No Religion,Agnostic,20.6,10.38,1.68
+Caribbean,2010,2804000,No Religion,Agnostic,6.7,18.35,2.33
+Central America,2010,3772000,No Religion,Agnostic,2.4,21.34,2.46
+South America,2010,12136000,No Religion,Agnostic,3.1,17.13,2.05
+Northern America,2010,48119000,No Religion,Agnostic,14,12.62,1.89
+Australia/New Zealand,2010,5433000,No Religion,Agnostic,20.4,13.78,1.98
+Melanesia,2010,74600,No Religion,Agnostic,0.9,29.75,3.75
+Micronesia,2010,6600,No Religion,Agnostic,1.2,25,3.29
+Polynesia,2010,14800,No Religion,Agnostic,2.2,23.46,3.14
+Eastern Africa,2020,1094000,No Religion,Agnostic,0.2,33.86,4.34
+Middle Africa,2020,1074000,No Religion,Agnostic,0.6,40.32,5.69
+Northern Africa,2020,1611000,No Religion,Agnostic,0.7,23.37,3.07
+Southern Africa,2020,3274000,No Religion,Agnostic,4.8,20.35,2.35
+Western Africa,2020,1163000,No Religion,Agnostic,0.3,33.92,4.65
+Eastern Asia,2020,505861000,No Religion,Agnostic,30.1,8.17,1.23
+South-central Asia,2020,19517000,No Religion,Agnostic,0.1,43.66,5.38
+South-eastern Asia,2020,18834000,No Religion,Agnostic,2.8,15.73,2.02
+Western Asia,2020,3308000,No Religion,Agnostic,1.2,19.98,2.62
+Eastern Europe,2020,22370000,No Religion,Agnostic,7.6,9.49,1.46
+Northern Europe,2020,20628000,No Religion,Agnostic,19.4,10.18,1.58
+Southern Europe,2020,14073000,No Religion,Agnostic,9.2,7.51,1.3
+Western Europe,2020,44300000,No Religion,Agnostic,22.6,9.82,1.61
+Caribbean,2020,2804000,No Religion,Agnostic,6.4,15.44,2.05
+Central America,2020,4780000,No Religion,Agnostic,2.7,17.45,2.07
+South America,2020,15009000,No Religion,Agnostic,3.5,13.84,1.76
+Northern America,2020,64155000,No Religion,Agnostic,17.4,10.6,1.6
+Australia/New Zealand,2020,8160000,No Religion,Agnostic,26.9,11.44,1.6
+Melanesia,2020,97800,No Religion,Agnostic,0.9,25.49,3.21
+Micronesia,2020,7200,No Religion,Agnostic,1.3,21.71,2.94
+Polynesia,2020,15700,No Religion,Agnostic,2.3,18.96,2.63
+Eastern Africa,1970,6200,No Religion,Atheist,0,49.2,7.06
+Middle Africa,1970,4500,No Religion,Atheist,0,47.05,6.47
+Northern Africa,1970,66200,No Religion,Atheist,0.1,44.26,6.62
+Southern Africa,1970,5100,No Religion,Atheist,0,39.88,5.71
+Western Africa,1970,21000,No Religion,Atheist,0,48.22,6.71
+Eastern Asia,1970,99021000,No Religion,Atheist,9.9,35.52,5.37
+South-central Asia,1970,6856000,No Religion,Atheist,0.9,74.44,10.95
+South-eastern Asia,1970,1424000,No Religion,Atheist,0.5,38.43,5.61
+Western Asia,1970,2157000,No Religion,Atheist,2.4,40.53,5.96
+Eastern Europe,1970,44888000,No Religion,Atheist,16.3,15.66,2.14
+Northern Europe,1970,2224000,No Religion,Atheist,2.5,15.89,2.34
+Southern Europe,1970,2979000,No Religion,Atheist,2.3,18.46,2.61
+Western Europe,1970,3725000,No Religion,Atheist,2.3,15.04,2.23
+Caribbean,1970,504000,No Religion,Atheist,2,33.64,4.68
+Central America,1970,32100,No Religion,Atheist,0,44.12,6.46
+South America,1970,729000,No Religion,Atheist,0.4,34.36,4.8
+Northern America,1970,300000,No Religion,Atheist,0.1,18.54,2.49
+Australia/New Zealand,1970,215000,No Religion,Atheist,1.4,20.7,2.91
+Melanesia,1970,680,No Religion,Atheist,0,42.3,6.03
+Micronesia,1970,30,No Religion,Atheist,0,36.97,5.73
+Polynesia,1970,210,No Religion,Atheist,0.1,39.22,6.32
+Eastern Africa,2010,113000,No Religion,Atheist,0,38.79,5.21
+Middle Africa,2010,102000,No Religion,Atheist,0.1,43.59,6.2
+Northern Africa,2010,147000,No Religion,Atheist,0.1,27.26,3.32
+Southern Africa,2010,140000,No Religion,Atheist,0.2,23.1,2.55
+Western Africa,2010,69000,No Religion,Atheist,0,41.31,5.72
+Eastern Asia,2010,105421000,No Religion,Atheist,6.7,12.65,1.66
+South-central Asia,2010,2676000,No Religion,Atheist,0.2,47.44,5.46
+South-eastern Asia,2010,6408000,No Religion,Atheist,1.1,19.83,2.38
+Western Asia,2010,347000,No Religion,Atheist,0.1,23.64,2.96
+Eastern Europe,2010,4593000,No Religion,Atheist,1.6,11.76,1.53
+Northern Europe,2010,2423000,No Religion,Atheist,2.4,12.64,1.89
+Southern Europe,2010,3263000,No Religion,Atheist,2.1,9.99,1.45
+Western Europe,2010,5417000,No Religion,Atheist,2.9,10.38,1.68
+Caribbean,2010,645000,No Religion,Atheist,1.5,18.35,2.33
+Central America,2010,240000,No Religion,Atheist,0.2,21.34,2.46
+South America,2010,2014000,No Religion,Atheist,0.5,17.13,2.05
+Northern America,2010,2156000,No Religion,Atheist,0.6,12.62,1.89
+Australia/New Zealand,2010,470000,No Religion,Atheist,1.8,13.78,1.98
+Melanesia,2010,5200,No Religion,Atheist,0.1,29.75,3.75
+Micronesia,2010,230,No Religion,Atheist,0,25,3.29
+Polynesia,2010,1600,No Religion,Atheist,0.2,23.46,3.14
+Eastern Africa,2020,150000,No Religion,Atheist,0,33.86,4.34
+Middle Africa,2020,160000,No Religion,Atheist,0.1,40.32,5.69
+Northern Africa,2020,178000,No Religion,Atheist,0.1,23.37,3.07
+Southern Africa,2020,165000,No Religion,Atheist,0.2,20.35,2.35
+Western Africa,2020,85600,No Religion,Atheist,0,33.92,4.65
+Eastern Asia,2020,108048000,No Religion,Atheist,6.4,8.17,1.23
+South-central Asia,2020,2804000,No Religion,Atheist,0.1,43.66,5.38
+South-eastern Asia,2020,6921000,No Religion,Atheist,1,15.73,2.02
+Western Asia,2020,384000,No Religion,Atheist,0.1,19.98,2.62
+Eastern Europe,2020,3612000,No Religion,Atheist,1.2,9.49,1.46
+Northern Europe,2020,2479000,No Religion,Atheist,2.3,10.18,1.58
+Southern Europe,2020,2309000,No Religion,Atheist,2.1,7.51,1.3
+Western Europe,2020,5805000,No Religion,Atheist,3,9.82,1.61
+Caribbean,2020,570000,No Religion,Atheist,1.3,15.44,2.05
+Central America,2020,280000,No Religion,Atheist,0.2,17.45,2.07
+South America,2020,2352000,No Religion,Atheist,0.5,13.84,1.76
+Northern America,2020,10587000,No Religion,Atheist,2.9,10.6,1.6
+Australia/New Zealand,2020,1724000,No Religion,Atheist,5.7,11.44,1.6
+Melanesia,2020,6400,No Religion,Atheist,0.1,25.49,3.21
+Micronesia,2020,220,No Religion,Atheist,0,21.71,2.94
+Polynesia,2020,1600,No Religion,Atheist,0.2,18.96,2.63
+Eastern Africa,1970,7800,Religion,Buddhist,0,49.2,7.06
+Middle Africa,1970,400,Religion,Buddhist,0,47.05,6.47
+Northern Africa,1970,400,Religion,Buddhist,0,44.26,6.62
+Southern Africa,1970,2300,Religion,Buddhist,0,39.88,5.71
+Western Africa,1970,800,Religion,Buddhist,0,48.22,6.71
+Eastern Asia,1970,129655000,Religion,Buddhist,13,35.52,5.37
+South-central Asia,1970,14156000,Religion,Buddhist,1.8,74.44,10.95
+South-eastern Asia,1970,88371000,Religion,Buddhist,31.5,38.43,5.61
+Western Asia,1970,10500,Religion,Buddhist,0,40.53,5.96
+Eastern Europe,1970,475000,Religion,Buddhist,0.2,15.66,2.14
+Northern Europe,1970,31700,Religion,Buddhist,0,15.89,2.34
+Southern Europe,1970,2500,Religion,Buddhist,0,18.46,2.61
+Western Europe,1970,43000,Religion,Buddhist,0,15.04,2.23
+Caribbean,1970,9400,Religion,Buddhist,0,33.64,4.68
+Central America,1970,22300,Religion,Buddhist,0,44.12,6.46
+South America,1970,358000,Religion,Buddhist,0.2,34.36,4.8
+Northern America,1970,216000,Religion,Buddhist,0.1,18.54,2.49
+Australia/New Zealand,1970,13400,Religion,Buddhist,0.1,20.7,2.91
+Melanesia,1970,2600,Religion,Buddhist,0.1,42.3,6.03
+Micronesia,1970,350,Religion,Buddhist,0.1,36.97,5.73
+Polynesia,1970,300,Religion,Buddhist,0.1,39.22,6.32
+Eastern Africa,2010,29600,Religion,Buddhist,0,38.79,5.21
+Middle Africa,2010,7600,Religion,Buddhist,0,43.59,6.2
+Northern Africa,2010,27400,Religion,Buddhist,0,27.26,3.32
+Southern Africa,2010,160000,Religion,Buddhist,0.3,23.1,2.55
+Western Africa,2010,29500,Religion,Buddhist,0,41.31,5.72
+Eastern Asia,2010,299334000,Religion,Buddhist,19,12.65,1.66
+South-central Asia,2010,28326000,Religion,Buddhist,1.6,47.44,5.46
+South-eastern Asia,2010,158923000,Religion,Buddhist,26.8,19.83,2.38
+Western Asia,2010,455000,Religion,Buddhist,0.2,23.64,2.96
+Eastern Europe,2010,578000,Religion,Buddhist,0.2,11.76,1.53
+Northern Europe,2010,299000,Religion,Buddhist,0.3,12.64,1.89
+Southern Europe,2010,88400,Religion,Buddhist,0.1,9.99,1.45
+Western Europe,2010,824000,Religion,Buddhist,0.4,10.38,1.68
+Caribbean,2010,14400,Religion,Buddhist,0,18.35,2.33
+Central America,2010,70000,Religion,Buddhist,0,21.34,2.46
+South America,2010,674000,Religion,Buddhist,0.2,17.13,2.05
+Northern America,2010,4454000,Religion,Buddhist,1.3,12.62,1.89
+Australia/New Zealand,2010,562000,Religion,Buddhist,2.1,13.78,1.98
+Melanesia,2010,15000,Religion,Buddhist,0.2,29.75,3.75
+Micronesia,2010,9100,Religion,Buddhist,1.7,25,3.29
+Polynesia,2010,610,Religion,Buddhist,0.1,23.46,3.14
+Eastern Africa,2020,40300,Religion,Buddhist,0,33.86,4.34
+Middle Africa,2020,11100,Religion,Buddhist,0,40.32,5.69
+Northern Africa,2020,26400,Religion,Buddhist,0,23.37,3.07
+Southern Africa,2020,249000,Religion,Buddhist,0.4,20.35,2.35
+Western Africa,2020,38900,Religion,Buddhist,0,33.92,4.65
+Eastern Asia,2020,321176000,Religion,Buddhist,19.1,8.17,1.23
+South-central Asia,2020,29947000,Religion,Buddhist,1.5,43.66,5.38
+South-eastern Asia,2020,171784000,Religion,Buddhist,25.7,15.73,2.02
+Western Asia,2020,630000,Religion,Buddhist,0.2,19.98,2.62
+Eastern Europe,2020,631000,Religion,Buddhist,0.2,9.49,1.46
+Northern Europe,2020,324000,Religion,Buddhist,0.3,10.18,1.58
+Southern Europe,2020,174000,Religion,Buddhist,0.1,7.51,1.3
+Western Europe,2020,858000,Religion,Buddhist,0.4,9.82,1.61
+Caribbean,2020,14500,Religion,Buddhist,0,15.44,2.05
+Central America,2020,83100,Religion,Buddhist,0,17.45,2.07
+South America,2020,738000,Religion,Buddhist,0.2,13.84,1.76
+Northern America,2020,4953000,Religion,Buddhist,1.3,10.6,1.6
+Australia/New Zealand,2020,951000,Religion,Buddhist,3.1,11.44,1.6
+Melanesia,2020,19200,Religion,Buddhist,0.2,25.49,3.21
+Micronesia,2020,8700,Religion,Buddhist,1.6,21.71,2.94
+Polynesia,2020,610,Religion,Buddhist,0.1,18.96,2.63
+Eastern Africa,1970,54456000,Religion,Christian,49.3,49.2,7.06
+Middle Africa,1970,29474000,Religion,Christian,72.3,47.05,6.47
+Northern Africa,1970,5220000,Religion,Christian,6.4,44.26,6.62
+Southern Africa,1970,19008000,Religion,Christian,75.5,39.88,5.71
+Western Africa,1970,29709000,Religion,Christian,27.8,48.22,6.71
+Eastern Asia,1970,11418000,Religion,Christian,1.1,35.52,5.37
+South-central Asia,1970,27219000,Religion,Christian,3.5,74.44,10.95
+South-eastern Asia,1970,52295000,Religion,Christian,18.7,38.43,5.61
+Western Asia,1970,6457000,Religion,Christian,7.3,40.53,5.96
+Eastern Europe,1970,156919000,Religion,Christian,56.9,15.66,2.14
+Northern Europe,1970,75490000,Religion,Christian,86.4,15.89,2.34
+Southern Europe,1970,111361000,Religion,Christian,87.2,18.46,2.61
+Western Europe,1970,146737000,Religion,Christian,88.7,15.04,2.23
+Caribbean,1970,19941000,Religion,Christian,78.2,33.64,4.68
+Central America,1970,66430000,Religion,Christian,97.6,44.12,6.46
+South America,1970,183590000,Religion,Christian,95.2,34.36,4.8
+Northern America,1970,202363000,Religion,Christian,91.2,18.54,2.49
+Australia/New Zealand,1970,14391000,Religion,Christian,93.3,20.7,2.91
+Melanesia,1970,2999000,Religion,Christian,88.5,42.3,6.03
+Micronesia,1970,246000,Religion,Christian,95.7,36.97,5.73
+Polynesia,1970,409000,Religion,Christian,98.1,39.22,6.32
+Eastern Africa,2010,214013000,Religion,Christian,66,38.79,5.21
+Middle Africa,2010,104579000,Religion,Christian,82.5,43.59,6.2
+Northern Africa,2010,16761000,Religion,Christian,8,27.26,3.32
+Southern Africa,2010,47598000,Religion,Christian,82.4,23.1,2.55
+Western Africa,2010,111103000,Religion,Christian,36.5,41.31,5.72
+Eastern Asia,2010,127573000,Religion,Christian,8.1,12.65,1.66
+South-central Asia,2010,69990000,Religion,Christian,4,47.44,5.46
+South-eastern Asia,2010,130271000,Religion,Christian,22,19.83,2.38
+Western Asia,2010,14178000,Religion,Christian,6.1,23.64,2.96
+Eastern Europe,2010,247550000,Religion,Christian,84,11.76,1.53
+Northern Europe,2010,74228000,Religion,Christian,74.8,12.64,1.89
+Southern Europe,2010,127943000,Religion,Christian,82.5,9.99,1.45
+Western Europe,2010,130395000,Religion,Christian,69,10.38,1.68
+Caribbean,2010,34774000,Religion,Christian,83.5,18.35,2.33
+Central America,2010,149426000,Religion,Christian,95.9,21.34,2.46
+South America,2010,360486000,Religion,Christian,91.8,17.13,2.05
+Northern America,2010,271554000,Religion,Christian,78.8,12.62,1.89
+Australia/New Zealand,2010,18869000,Religion,Christian,70.8,13.78,1.98
+Melanesia,2010,8004000,Religion,Christian,91.5,29.75,3.75
+Micronesia,2010,499000,Religion,Christian,93.1,25,3.29
+Polynesia,2010,647000,Religion,Christian,96.1,23.46,3.14
+Eastern Africa,2020,292393000,Religion,Christian,65.6,33.86,4.34
+Middle Africa,2020,148998000,Religion,Christian,83,40.32,5.69
+Northern Africa,2020,11668000,Religion,Christian,4.7,23.37,3.07
+Southern Africa,2020,55465000,Religion,Christian,82.2,20.35,2.35
+Western Africa,2020,146389000,Religion,Christian,36.4,33.92,4.65
+Eastern Asia,2020,128446000,Religion,Christian,7.7,8.17,1.23
+South-central Asia,2020,80912000,Religion,Christian,4,43.66,5.38
+South-eastern Asia,2020,152878000,Religion,Christian,22.9,15.73,2.02
+Western Asia,2020,15606000,Religion,Christian,5.6,19.98,2.62
+Eastern Europe,2020,245905000,Religion,Christian,83.9,9.49,1.46
+Northern Europe,2020,106261000,Religion,Christian,70.5,10.18,1.58
+Southern Europe,2020,152215000,Religion,Christian,80.6,7.51,1.3
+Western Europe,2020,196146000,Religion,Christian,65.8,9.82,1.61
+Caribbean,2020,43532000,Religion,Christian,84.1,15.44,2.05
+Central America,2020,179670000,Religion,Christian,95.7,17.45,2.07
+South America,2020,430760000,Religion,Christian,91.5,13.84,1.76
+Northern America,2020,368870000,Religion,Christian,73.1,10.6,1.6
+Australia/New Zealand,2020,30322000,Religion,Christian,56.9,11.44,1.6
+Melanesia,2020,11123000,Religion,Christian,92.1,25.49,3.21
+Micronesia,2020,549000,Religion,Christian,93.1,21.71,2.94
+Polynesia,2020,684000,Religion,Christian,96.1,18.96,2.63
+Eastern Africa,1970,563000,Religion,Hindu,0.5,49.2,7.06
+Middle Africa,1970,1000,Religion,Hindu,0,47.05,6.47
+Northern Africa,1970,0,Religion,Hindu,0,44.26,6.62
+Southern Africa,1970,433000,Religion,Hindu,1.7,39.88,5.71
+Western Africa,1970,3000,Religion,Hindu,0,48.22,6.71
+Eastern Asia,1970,25000,Religion,Hindu,0,35.52,5.37
+South-central Asia,1970,461493000,Religion,Hindu,59.1,74.44,10.95
+South-eastern Asia,1970,3756000,Religion,Hindu,1.3,38.43,5.61
+Western Asia,1970,15700,Religion,Hindu,0,40.53,5.96
+Eastern Europe,1970,0,Religion,Hindu,0,15.66,2.14
+Northern Europe,1970,221000,Religion,Hindu,0.3,15.89,2.34
+Southern Europe,1970,310,Religion,Hindu,0,18.46,2.61
+Western Europe,1970,23000,Religion,Hindu,0,15.04,2.23
+Caribbean,1970,272000,Religion,Hindu,1.1,33.64,4.68
+Central America,1970,1000,Religion,Hindu,0,44.12,6.46
+South America,1970,322000,Religion,Hindu,0.2,34.36,4.8
+Northern America,1970,120000,Religion,Hindu,0.1,18.54,2.49
+Australia/New Zealand,1970,8800,Religion,Hindu,0.1,20.7,2.91
+Melanesia,1970,176000,Religion,Hindu,5.2,42.3,6.03
+Micronesia,1970,0,Religion,Hindu,0,36.97,5.73
+Polynesia,1970,30,Religion,Hindu,0,39.22,6.32
+Eastern Africa,2010,1612000,Religion,Hindu,0.5,38.79,5.21
+Middle Africa,2010,99300,Religion,Hindu,0.1,43.59,6.2
+Northern Africa,2010,7400,Religion,Hindu,0,27.26,3.32
+Southern Africa,2010,1201000,Religion,Hindu,2.1,23.1,2.55
+Western Africa,2010,9700,Religion,Hindu,0,41.31,5.72
+Eastern Asia,2010,61800,Religion,Hindu,0,12.65,1.66
+South-central Asia,2010,933161000,Religion,Hindu,52.9,47.44,5.46
+South-eastern Asia,2010,6918000,Religion,Hindu,1.2,19.83,2.38
+Western Asia,2010,1340000,Religion,Hindu,0.6,23.64,2.96
+Eastern Europe,2010,47700,Religion,Hindu,0,11.76,1.53
+Northern Europe,2010,692000,Religion,Hindu,0.7,12.64,1.89
+Southern Europe,2010,30300,Religion,Hindu,0,9.99,1.45
+Western Europe,2010,282000,Religion,Hindu,0.1,10.38,1.68
+Caribbean,2010,382000,Religion,Hindu,0.9,18.35,2.33
+Central America,2010,18000,Religion,Hindu,0,21.34,2.46
+South America,2010,365000,Religion,Hindu,0.1,17.13,2.05
+Northern America,2010,1835000,Religion,Hindu,0.5,12.62,1.89
+Australia/New Zealand,2010,274000,Religion,Hindu,1,13.78,1.98
+Melanesia,2010,239000,Religion,Hindu,2.7,29.75,3.75
+Micronesia,2010,26,Religion,Hindu,0,25,3.29
+Polynesia,2010,100,Religion,Hindu,0,23.46,3.14
+Eastern Africa,2020,1939000,Religion,Hindu,0.4,33.86,4.34
+Middle Africa,2020,136000,Religion,Hindu,0.1,40.32,5.69
+Northern Africa,2020,8600,Religion,Hindu,0,23.37,3.07
+Southern Africa,2020,1421000,Religion,Hindu,2.1,20.35,2.35
+Western Africa,2020,51800,Religion,Hindu,0,33.92,4.65
+Eastern Asia,2020,66700,Religion,Hindu,0,8.17,1.23
+South-central Asia,2020,1039590300,Religion,Hindu,51.6,43.66,5.38
+South-eastern Asia,2020,7872000,Religion,Hindu,1.2,15.73,2.02
+Western Asia,2020,2173000,Religion,Hindu,0.8,19.98,2.62
+Eastern Europe,2020,50000,Religion,Hindu,0,9.49,1.46
+Northern Europe,2020,730000,Religion,Hindu,0.7,10.18,1.58
+Southern Europe,2020,198000,Religion,Hindu,0.1,7.51,1.3
+Western Europe,2020,297000,Religion,Hindu,0.2,9.82,1.61
+Caribbean,2020,397000,Religion,Hindu,0.9,15.44,2.05
+Central America,2020,22100,Religion,Hindu,0,17.45,2.07
+South America,2020,399000,Religion,Hindu,0.1,13.84,1.76
+Northern America,2020,2080000,Religion,Hindu,0.6,10.6,1.6
+Australia/New Zealand,2020,565000,Religion,Hindu,1.9,11.44,1.6
+Melanesia,2020,250000,Religion,Hindu,2.2,25.49,3.21
+Micronesia,2020,23,Religion,Hindu,0,21.71,2.94
+Polynesia,2020,110,Religion,Hindu,0,18.96,2.63
+Eastern Africa,1970,21574000,Religion,Muslim,19.5,49.2,7.06
+Middle Africa,1970,3494000,Religion,Muslim,8.6,47.05,6.47
+Northern Africa,1970,75812000,Religion,Muslim,92.2,44.26,6.62
+Southern Africa,1970,271000,Religion,Muslim,1.1,39.88,5.71
+Western Africa,1970,47059000,Religion,Muslim,44,48.22,6.71
+Eastern Asia,1970,12103000,Religion,Muslim,1.2,35.52,5.37
+South-central Asia,1970,224849000,Religion,Muslim,28.8,74.44,10.95
+South-eastern Asia,1970,96932000,Religion,Muslim,34.6,38.43,5.61
+Western Asia,1970,72675000,Religion,Muslim,82.5,40.53,5.96
+Eastern Europe,1970,11545000,Religion,Muslim,4.2,15.66,2.14
+Northern Europe,1970,676000,Religion,Muslim,0.8,15.89,2.34
+Southern Europe,1970,4034000,Religion,Muslim,3.2,18.46,2.61
+Western Europe,1970,2018000,Religion,Muslim,1.2,15.04,2.23
+Caribbean,1970,70200,Religion,Muslim,0.3,33.64,4.68
+Central America,1970,46600,Religion,Muslim,0.1,44.12,6.46
+South America,1970,308000,Religion,Muslim,0.2,34.36,4.8
+Northern America,1970,842000,Religion,Muslim,0.4,18.54,2.49
+Australia/New Zealand,1970,26000,Religion,Muslim,0.2,20.7,2.91
+Melanesia,1970,44900,Religion,Muslim,1.3,42.3,6.03
+Micronesia,1970,670,Religion,Muslim,0.3,36.97,5.73
+Polynesia,1970,40,Religion,Muslim,0,39.22,6.32
+Eastern Africa,2010,70824000,Religion,Muslim,21.9,38.79,5.21
+Middle Africa,2010,12226000,Religion,Muslim,9.7,43.59,6.2
+Northern Africa,2010,186697000,Religion,Muslim,89.1,27.26,3.32
+Southern Africa,2010,887000,Religion,Muslim,1.5,23.1,2.55
+Western Africa,2010,155227000,Religion,Muslim,51,41.31,5.72
+Eastern Asia,2010,21601000,Religion,Muslim,1.4,12.65,1.66
+South-central Asia,2010,632333000,Religion,Muslim,35.8,47.44,5.46
+South-eastern Asia,2010,218910000,Religion,Muslim,36.9,19.83,2.38
+Western Asia,2010,206010000,Religion,Muslim,88.8,23.64,2.96
+Eastern Europe,2010,16776000,Religion,Muslim,5.7,11.76,1.53
+Northern Europe,2010,2865000,Religion,Muslim,2.9,12.64,1.89
+Southern Europe,2010,10276000,Religion,Muslim,6.6,9.99,1.45
+Western Europe,2010,11576000,Religion,Muslim,6.1,10.38,1.68
+Caribbean,2010,114000,Religion,Muslim,0.3,18.35,2.33
+Central America,2010,148000,Religion,Muslim,0.1,21.34,2.46
+South America,2010,1265000,Religion,Muslim,0.3,17.13,2.05
+Northern America,2010,5492000,Religion,Muslim,1.6,12.62,1.89
+Australia/New Zealand,2010,484000,Religion,Muslim,1.8,13.78,1.98
+Melanesia,2010,63800,Religion,Muslim,0.7,29.75,3.75
+Micronesia,2010,950,Religion,Muslim,0.2,25,3.29
+Polynesia,2010,69,Religion,Muslim,0,23.46,3.14
+Eastern Africa,2020,98610000,Religion,Muslim,22.1,33.86,4.34
+Middle Africa,2020,17310000,Religion,Muslim,9.6,40.32,5.69
+Northern Africa,2020,231451000,Religion,Muslim,94,23.37,3.07
+Southern Africa,2020,1046000,Religion,Muslim,1.6,20.35,2.35
+Western Africa,2020,208506000,Religion,Muslim,51.9,33.92,4.65
+Eastern Asia,2020,24371000,Religion,Muslim,1.5,8.17,1.23
+South-central Asia,2020,748532000,Religion,Muslim,37.2,43.66,5.38
+South-eastern Asia,2020,248591000,Religion,Muslim,37.2,15.73,2.02
+Western Asia,2020,249306000,Religion,Muslim,89.2,19.98,2.62
+Eastern Europe,2020,19040000,Religion,Muslim,6.5,9.49,1.46
+Northern Europe,2020,5881000,Religion,Muslim,5.5,10.18,1.58
+Southern Europe,2020,11381000,Religion,Muslim,7.5,7.51,1.3
+Western Europe,2020,14346000,Religion,Muslim,7.3,9.82,1.61
+Caribbean,2020,119000,Religion,Muslim,0.3,15.44,2.05
+Central America,2020,172000,Religion,Muslim,0.1,17.45,2.07
+South America,2020,1482000,Religion,Muslim,0.3,13.84,1.76
+Northern America,2020,5671000,Religion,Muslim,1.5,10.6,1.6
+Australia/New Zealand,2020,818000,Religion,Muslim,2.7,11.44,1.6
+Melanesia,2020,68200,Religion,Muslim,0.6,25.49,3.21
+Micronesia,2020,1100,Religion,Muslim,0.2,21.71,2.94
+Polynesia,2020,75,Religion,Muslim,0,18.96,2.63
