@@ -1,9 +1,10 @@
 # capstone_religion_birthrate
 
 ## PowerBI Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiZTRhMGQwMWUtOTRkOC00NDU2LWEwYzAtZGQyNmMzOTQxZWI5IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
 
 ## Table of Contents
-* [Tableau Dashboard](#PowerBI-dashboard)
+* [PowerBI Dashboard](#PowerBI-dashboard)
 * [Motivation](#motivation)
 * [Questions](#questions)
 * [Normalizing the Data](#normaling-the-data)
@@ -41,13 +42,15 @@ To answer the above questions I used the following sources to collect datasets f
 1) 2024 Revision of World Population Prospects
 https://population.un.org/wpp/
 
-2) The World’s Religions in Figures: An Introduction to International Religious Demography
+2) Todd M. Johnson and Brian J. Grim, eds. World Religion Database (Leiden/Boston: Brill, 2012)
 https://catalogimages.wiley.com/images/db/pdf/9780470674543.excerpt.pdf
 
-3) Projecting Global Religious Populations, 2020–50
+3) Peter F. Crossing and Todd M. Johnson. "Projecting Global Religious Populations, 2020–50." Journal of Religion and Demography
 https://brill.com/view/journals/jrd/8/1-2/article-p124_4.xml
 
-4) The Religion and State Project
+4) The Religion and State (RAS) Project.
+
+Bar Ilan University
 https://ras.thearda.com/
 
 ## Conclusion
